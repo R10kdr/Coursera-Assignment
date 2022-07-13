@@ -1,2 +1,5 @@
-# Coursera-Assignment
-This repository contains a Jupyter Notebook that I created in order to fulfill the tasks for a Coursera assignment
+#Coursera-Assignment
+
+#Editing the file
+
+This is a markdown file. Nothing else to see here
