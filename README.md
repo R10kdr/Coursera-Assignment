@@ -1,5 +1,3 @@
 #Coursera-Assignment
 
-#Editing the file
-
-This is a markdown file. Nothing else to see here
+This repository contains the Jupyter Notebook that contains all the tasks required to complete the assignment in week for of Data Science Tools course from IBM in Coursera
